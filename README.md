@@ -280,7 +280,9 @@ Name    |    Description
 ----    |    ----
 [Foot Printing with WhoIS/DNS records](https://www.sans.org/reading-room/whitepapers/hackers/fundamentals-computer-hacking-956) | a white paper from SANS
 [Google Dorks/Google Hacking](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/) | list of commands for google hacks, unleash the power of the world's biggest search engine
-
+[1.4 billion clear text username and password information](https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis) | A torrent file(44gbs) that contains 1.4 billion clear text user information
+[Hunter.io,An all-in-one email outreach platform](https://hunter.io/) | Is used to connect company workers' information with passive reconning
+[Checking out what technologies a website uses](https://builtwith.com/) | Is used to get the information of the technologies a website is built with
 ### Vulnerable Web Application
 Name    |    Description
 ----    |    ----
